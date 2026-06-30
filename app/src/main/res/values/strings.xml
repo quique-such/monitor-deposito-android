@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MonitorizacionDeposito</string>
+
+    <string name="ip">IP:</string>
+    <string name="xxx_xxx_xxx_xxx">XXX.XXX.XXX.XXX</string>
+    <string name="xxxxx">XXXXX</string>
+    <string name="puerto">Puerto:</string>
+    <string name="interrogante_dos_puntos_interrogante">XXX.XXX.XXX.XXX : XXXXX </string>
+    <string name="IP_puerto_telemetria">IP:puerto telemetría:</string>
+    <string name="desconocido">¿?</string>
+</resources>
